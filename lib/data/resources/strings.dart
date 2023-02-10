@@ -1,0 +1,1 @@
+const String titleAppBarSetting = 'Thông tin cấu hình';
